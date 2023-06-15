@@ -29,7 +29,7 @@
 //     Console.WriteLine("No ingresaste un numero.");
 // }
 
-//------EJERCICIO 3------
+//------EJERCICIO 2 y 3------
 float a, b = 0, c = 0, d = 0;
 int aux;
 bool control1, control2;
