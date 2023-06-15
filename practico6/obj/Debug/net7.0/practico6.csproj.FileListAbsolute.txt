@@ -13,3 +13,18 @@ C:\TP6\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\refint\practico6.dll
 C:\TP6\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.pdb
 C:\TP6\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
 C:\TP6\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\ref\practico6.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\bin\Debug\net7.0\practico6.exe
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\bin\Debug\net7.0\practico6.deps.json
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\bin\Debug\net7.0\practico6.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\bin\Debug\net7.0\practico6.pdb
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\refint\practico6.dll
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.pdb
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+C:\Users\ignac\Documents\PDFs Facet\PU\2do año\1er cuatrimestre\TL 1\tps\tl1_tp6_2023-0ignacio\practico6\obj\Debug\net7.0\ref\practico6.dll
